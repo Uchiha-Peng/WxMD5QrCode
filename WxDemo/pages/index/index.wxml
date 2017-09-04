@@ -1,0 +1,6 @@
+<!--pages/main/index.wxml-->
+<view class="container">
+    <view class="img-box">
+        <canvas canvas-id="mycanvas"/>
+    </view>
+</view>
