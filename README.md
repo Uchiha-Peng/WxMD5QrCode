@@ -11,7 +11,7 @@
 ```
 3. MD5加密
 
-> 传入字符串参数即可——md5(dateStr) * md5即为引用该js时设置的值
+> 传入字符串参数即可——md5(dateStr)   ` md5即为引用该js时设置的值 `
 
 ![Alt text](/WxDemo/ScreenShot/screen2.PNG)
 4. 通过Canvas动态创建二维码
